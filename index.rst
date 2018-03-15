@@ -3,8 +3,8 @@
 |Home_Icon|_
 `Learning Center Home <http://learning.cyverse.org/>`_
 
-PROJECT NAME
-============
+CyVerse Image Data Mangement and BisQue Introduction
+====================================================
 
 ..
     #### Comment: Use short, imperative titles e.g. Upload and share data, uploading and
