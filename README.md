@@ -45,7 +45,7 @@
 1. BisQue can handle 200+ formats of images
 2. Many of these formats will import metadata
 3. Bulk metadata can be uploaded
-  * 
+  * Use metadata tables (new)
 
 ## Simple Image Analysis
 ### [Setting scale YouTube Documentation](https://www.youtube.com/watch?v=JIn1XNiawVo&t=9s)
@@ -66,3 +66,12 @@
 3. Enter the name of the length that will show up everywhere
 4. Annotate the image
 5. Many annotations can be done the same way
+
+### Thresholding and image surface area calculations
+Very simple thresholding and surface area calculations can be done on images within BisQue. First, calibrate the image as above (you should see a scale bar on the bottom of the image).
+1. Select the 'Operations' button in the tool bar.
+2. Select 'Pixel Counter'
+3. Select a thresholding value
+4. Click the image to select thresholded areas to count surface area/pixels
+
+
